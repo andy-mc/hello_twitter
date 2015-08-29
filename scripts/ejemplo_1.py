@@ -1,4 +1,4 @@
-#!\usr\bin\env python
+#!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
 # https://dev.twitter.com/rest/reference/get/search/tweets
